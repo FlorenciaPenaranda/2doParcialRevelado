@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1561677984 source:d:\reveladodigital\revelado\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"revelado.h"
+	"parser.h"
+	"utn.h"
+
+1561672079 d:\reveladodigital\revelado\linkedlist.h
+
+1561677969 d:\reveladodigital\revelado\revelado.h
+	"LinkedList.h"
+
+1561671396 d:\reveladodigital\revelado\parser.h
+
+1561671039 d:\reveladodigital\revelado\utn.h
+
+1561672067 source:d:\reveladodigital\revelado\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561679009 source:d:\reveladodigital\revelado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+	"controller.h"
+	"revelado.h"
+	"parser.h"
+
+1561671445 source:d:\reveladodigital\revelado\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"revelado.h"
+
+1561671023 source:d:\reveladodigital\revelado\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1561679016 source:d:\reveladodigital\revelado\revelado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"revelado.h"
+	"utn.h"
+	"LinkedList.h"
+
+1561671993 d:\reveladodigital\revelado\controller.h
+
